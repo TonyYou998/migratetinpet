@@ -1,0 +1,16 @@
+@import "./component/navbar";
+@import "./base/fonts";
+@import "./component/carousel";
+@import "./component/arr";
+@import "./component/footer";
+@import "./component/login";
+@import "./component/findApet";
+@import "./component/upload";
+*{
+    font-family: Jost;
+  
+}
+.homepage{
+    background-color: #eee7de;
+}
+@import "./component/arr";
